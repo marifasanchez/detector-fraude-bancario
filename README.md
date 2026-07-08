@@ -27,7 +27,7 @@ o directamente:
 
 ```bash
 gcc -Wall -Wextra -Iinclude src/*.c -o detector_fraude
-./detector_fraude data/transacciones.txt
+.\detector_fraude.exe data\transacciones.txt 
 ```
 
 ## Estructura del repositorio
